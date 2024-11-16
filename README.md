@@ -64,7 +64,7 @@ This version implements a Seq2Seq model based on the Transformer architecture, d
     - A dense layer with softmax activation to predict the next token.
 
 
-### V3- Transformer-Based Seq2Seq Model
+### V3- Using pre-trained model
 This project demonstrates using a pre-trained T5 model for text generation tasks. T5 is a powerful Transformer-based model from Google AI, trained on a massive dataset for various text-to-text tasks.
 
     Pre-trained Model Leverage:
